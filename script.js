@@ -1,6 +1,7 @@
 
 document.getElementById('button').addEventListener('click', schoolWork)
 let userAge = 0
+let userDate = 'Monday'
 
 function schoolWork () {
   userAge = document.getElementById('age').value
